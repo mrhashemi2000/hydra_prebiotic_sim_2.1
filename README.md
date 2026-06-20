@@ -1,2 +1,45 @@
-# hydra_prebiotic_sim_2.1
-HYDRA is a multiphysics simulation framework designed to model the chemical evolution and selection of prebiotic polymers (RNA, DNA, peptides) within hydrothermal pore networks. Built on experimental kinetics and 3D hydrodynamic transport, HYDRA enables researchers to test origins-of-life scenarios with high physical and chemical realism
+hydra_prebiotic_sim_2.1
+
+HYDRA (Hydrothermal Dynamics of Replicative Amplification)
+Version 2.1: Comprehensive Multiphysics Framework for Prebiotic Polymer Selection
+
+https://doi.org/10.5281/zenodo.18393990
+MIT License
+Overview
+HYDRA is a multiphysics simulation framework designed to model the chemical evolution and selection of prebiotic polymers (RNA, DNA, peptides) within hydrothermal pore networks. Built on experimental kinetics and 3D hydrodynamic transport, HYDRA enables researchers to test origins-of-life scenarios with high physical and chemical realism.
+
+Multi-Module Architecture
+The framework is structured into six integrated modules:
+1.  Chemical Kinetics Engine: Incorporates metal catalysis (Fe²⁺), base hydrolysis, and Michaelis-Menten polymerization.
+2.  Pore Network Generator: Generates synthetic or tomography-derived 3D environments.
+3.  Transport Solver: Models diffusion (Faxén-corrected), thermophoresis (Soret effect), and electrostatics.
+4.  Mineral Surface Chemistry: Site-specific adsorption and surface-mediated catalysis.
+5.  Environmental Field Generator: Resolves temperature gradients, pH fluctuations, and metal speciation.
+6.  Experimental Validator: Built-in metrics for clinical and laboratory data comparison.
+
+Key Features in v2.1
+- Faxén Diffusion Correction: Accurate modeling of molecular movement in micro-confined spaces.
+- Enhanced Metal Catalysis: Dynamic Haber-Weiss kinetics for Fe²⁺-mediated degradation.
+- Optimized Performance: Numba-accelerated kernels for high-speed simulations.
+- Zenodo Integration: Ready for academic citation.
+
+Installation
+Clone the repository and install the required dependencies:
+git clone https://github.com/your-username/HYDRA.git
+cd HYDRA
+pip install -r requirements.txt
+
+Quick Start
+Run a single simulation with visualization stats:
+python hydra_main.py
+
+Citation
+If you use HYDRA in your research, please cite it as:
+Hashemi, R. (2026). HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
+
+Author
+Seyed Mohammad Reza Hashemi(Reza Hashemi)  
+Former Member of the Pasteur Institute of Iran  
+Email: mrhashemi2000@gmail.com
+
+This project is licensed under the MIT License.
