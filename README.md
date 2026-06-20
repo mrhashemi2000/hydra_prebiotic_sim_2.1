@@ -1,10 +1,9 @@
-hydra_prebiotic_sim_2.1
-
 HYDRA (Hydrothermal Dynamics of Replicative Amplification)
 Version 2.1: Comprehensive Multiphysics Framework for Prebiotic Polymer Selection
 
 https://doi.org/10.5281/zenodo.18393990
 MIT License
+
 Overview
 HYDRA is a multiphysics simulation framework designed to model the chemical evolution and selection of prebiotic polymers (RNA, DNA, peptides) within hydrothermal pore networks. Built on experimental kinetics and 3D hydrodynamic transport, HYDRA enables researchers to test origins-of-life scenarios with high physical and chemical realism.
 
@@ -25,11 +24,12 @@ Key Features in v2.1
 
 Citation
 If you use HYDRA in your research, please cite it as:
-Hashemi, R. (2026). HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
+Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
 
 Author
 Seyed Mohammad Reza Hashemi(Reza Hashemi)  
 Former Member of the Pasteur Institute of Iran  
 Email: mrhashemi2000@gmail.com
+
 
 This project is licensed under the MIT License.
