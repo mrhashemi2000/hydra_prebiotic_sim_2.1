@@ -23,16 +23,6 @@ Key Features in v2.1
 - Optimized Performance: Numba-accelerated kernels for high-speed simulations.
 - Zenodo Integration: Ready for academic citation.
 
-Installation
-Clone the repository and install the required dependencies:
-git clone https://github.com/your-username/HYDRA.git
-cd HYDRA
-pip install -r requirements.txt
-
-Quick Start
-Run a single simulation with visualization stats:
-python hydra_main.py
-
 Citation
 If you use HYDRA in your research, please cite it as:
 Hashemi, R. (2026). HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
