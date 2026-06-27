@@ -1,5 +1,17 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20771213-blue)](https://doi.org/10.5281/zenodo.20771213)
 
+## Author
+
+## Seyed Mohammad Reza Hashemi(Reza Hashemi)  
+
+Former Member of the Pasteur Institute of Iran 
+
+Email: mrhashemi2000@gmail.com
+
+ORCID : 0009-0002-0645-5180
+
+This project is licensed under the MIT License.
+
 ## HYDRA (Hydrothermal Dynamics of Replicative Amplification)
 Version 2.1: Comprehensive Multiphysics Framework for Prebiotic Polymer Selection
 
@@ -30,21 +42,11 @@ Key Features in v2.1
 
 ## Citation
 If you use HYDRA in your research, please cite it as:
-Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
+Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments.
+
+https://doi.org/10.5281/zenodo.18393990
 
 https://doi.org/10.5281/zenodo.20771213
-
-## Author
-
-## Seyed Mohammad Reza Hashemi(Reza Hashemi)  
-
-Former Member of the Pasteur Institute of Iran 
-
-Email: mrhashemi2000@gmail.com
-
-ORCID : 0009-0002-0645-5180
-
-This project is licensed under the MIT License.
 
 ## Versions:
 *Main Branch (v2.1): The current high-fidelity multiphysics framework. Focuses on rigorous chemical kinetics, thermophoresis, and pore-geometry effects. (Recommended for research).
