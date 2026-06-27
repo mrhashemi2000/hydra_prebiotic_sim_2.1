@@ -33,3 +33,9 @@ Email: mrhashemi2000@gmail.com
 ORCID : 0009-0002-0645-5180
 
 This project is licensed under the MIT License.
+
+## Versions:
+*Main Branch (v2.1): The current high-fidelity multiphysics framework. Focuses on rigorous chemical kinetics, thermophoresis, and pore-geometry effects. (Recommended for research).
+
+*Tag 1.0.0: Initial version focused on visualization and basic polymer decay/selection metrics.
+
