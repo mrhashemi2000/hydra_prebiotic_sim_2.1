@@ -1,7 +1,11 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20771213-blue)](https://doi.org/10.5281/zenodo.20771213)
+
 ## HYDRA (Hydrothermal Dynamics of Replicative Amplification)
 Version 2.1: Comprehensive Multiphysics Framework for Prebiotic Polymer Selection
 
 https://doi.org/10.5281/zenodo.18393990
+
+https://doi.org/10.5281/zenodo.20771213
 
 MIT License
 
@@ -28,7 +32,10 @@ Key Features in v2.1
 If you use HYDRA in your research, please cite it as:
 Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments. https://doi.org/10.5281/zenodo.18393990
 
-Author
+https://doi.org/10.5281/zenodo.20771213
+
+## Author
+
 ## Seyed Mohammad Reza Hashemi(Reza Hashemi)  
 
 Former Member of the Pasteur Institute of Iran 
