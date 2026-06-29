@@ -45,10 +45,9 @@ Key Features in v2.1
 ## Citation
 If you use HYDRA in your research, please cite it as:
 Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments.
-
 https://doi.org/10.5281/zenodo.18393990
 
-https://doi.org/10.5281/zenodo.20771213
+Reza Hashemi. (2026). mrhashemi2000/hydra_prebiotic_sim_2.1: Initial Scientific Release. Zenodo. https://doi.org/10.5281/zenodo.20771213
 
 ## Versions:
 *Main Branch (v2.1): The current high-fidelity multiphysics framework. Focuses on rigorous chemical kinetics, thermophoresis, and pore-geometry effects. (Recommended for research).
