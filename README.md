@@ -44,6 +44,7 @@ Key Features in v2.1
 
 ## Citation
 If you use HYDRA in your research, please cite it as:
+
 Hashemi, R. (2026).HYDRA: A Comprehensive Multiphysics Framework for Simulating Prebiotic Polymer Selection in Hydrothermal Environments.
 https://doi.org/10.5281/zenodo.18393990
 
