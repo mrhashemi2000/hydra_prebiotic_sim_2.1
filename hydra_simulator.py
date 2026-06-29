@@ -2,10 +2,10 @@
 HYDRA (Hydrothermal Dynamics of Replicative Amplification)
 Version 2.1: Enhanced Multiphysics Framework for Prebiotic Polymer Selection
 
-Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)
+Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)  Intelligence-Augmented (IA)
 Affiliation: Former Member of the Pasteur Institute of Iran
 Email: mrhashemi2000@gmail.com
-DOI: 10.5281/zenodo.18393990
+DOI: 10.5281/zenodo.20771213
 License: MIT
 
 Description:
