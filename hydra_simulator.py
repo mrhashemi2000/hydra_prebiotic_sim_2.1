@@ -6,7 +6,7 @@ Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)  Intelligence-Augmented (IA)
 Affiliation: Former Member of the Pasteur Institute of Iran
 Email: mrhashemi2000@gmail.com
 DOI: 10.5281/zenodo.20771213
-License: MIT
+MIT License
 
 Description:
 A comprehensive multiphysics framework for simulating polymer selection in 
